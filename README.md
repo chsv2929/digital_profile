@@ -17,3 +17,7 @@ ordered
 3. Item 3
    * Item 3a
    * Item 3b
+
+images
+![GITHUB LOGO](/images/logo.png)
+Format: ![ALT TEXT](url)
