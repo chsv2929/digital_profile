@@ -21,3 +21,7 @@ ordered
 images
 ![GITHUB LOGO](/images/logo.png)
 Format: ![ALT TEXT](url)
+
+links
+http://github.com - automatic!
+[GITHUB](http://github.com)
